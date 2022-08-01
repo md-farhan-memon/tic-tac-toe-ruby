@@ -124,5 +124,3 @@ when 4
 else
   puts "\nInvalid selection for game type. Exiting..."
 end
-
-def invalid_method; end
