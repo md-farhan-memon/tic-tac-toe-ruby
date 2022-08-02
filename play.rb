@@ -126,3 +126,4 @@ else
 end
 
 def invalid_method; end
+def another_invalid_method; end
